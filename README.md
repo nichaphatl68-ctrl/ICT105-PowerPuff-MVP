@@ -21,11 +21,7 @@ Working Space/Room in the Campus.
 University Students.
 
 ## Initial IT Venture Direction
-1.Booking the working space/room in the university
-
-2.Tramp tracking in the University
-
-3.Room tracking (how to find the room in the University/lead the way)
+The IT solution direction is a simple University Room Booking Web App. It lets students check room availability and book study spaces and rooms for meetings directly from any web browser and simplify booking for students.
 
 ## Technology Possibility
 Possible technologies:
@@ -44,10 +40,10 @@ Possible technologies:
 ## Weekly Progress Log
 | Lab | Main Activity | Output | Status |
 |---|---|---|---|
-| Lab 1 | Lab setup and idea log | Repository, team profile, initial idea log | In progress |
+| Lab 1 | Lab setup and idea log | Repository, team profile, initial idea log |In progress|
 
 ## Current Status
-Discuss the Project
+The team set up the project repository and organized the folder structure. We created the team profile and discussed several project ideas before selecting the Room Booking System as our final project. The team also completed the initial idea log, including the problem area, target users, proposed solution, and potential technologies. Basic project documentation and README files were prepared for the repository.
 
 ## Next Step
-Write what the team will do in Lab 2.
+In lab 2. The team will gather and analyze system requirements for the Room Booking System. We will create use case diagrams and other system design documents. The team will also begin designing the user interface and database structure. Tasks and responsibilities will be assigned to each team member for the next development phase.
