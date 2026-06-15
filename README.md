@@ -21,7 +21,7 @@ Working Space/Room in the Campus.
 University Students.
 
 ## Initial IT Venture Direction
-1.Booking the room/working space in the university
+1.Booking the working space/room in the university
 
 2.Tramp tracking in the University
 
