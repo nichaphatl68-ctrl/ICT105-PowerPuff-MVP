@@ -21,6 +21,7 @@ Frontend: HTML, CSS, JavaScript Backend: Node.js / Express or ASP.NET Core Datab
 What technology may be used?
 
 ### Why This is Suitable
+
 Explain why this project can be developed as an IT prototype during the semester. This project is practical for a semester prototype because it has a clear problem, a manageable scope, and achievable features. It allows the team to demonstrate UI/UX design, database management, user authentication, and real-time scheduling functionality.
 ---
 ## Idea 2
